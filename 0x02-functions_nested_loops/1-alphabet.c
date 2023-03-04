@@ -10,7 +10,7 @@ void print_alphabet(void)
 
 	for (l = 'a'; l <= 'z'; l++)
 	{
-		putchar(l);
+		_putchar(l);
 	}
-	purchar('\n')
+	_purchar('\n')
 }
